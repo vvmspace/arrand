@@ -1,5 +1,5 @@
 {
-  "name": "arrand",
+  "name": "array-random",
   "version": "1.0.0",
   "description": "Array random value",
   "main": "index.js",
