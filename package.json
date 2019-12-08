@@ -1,0 +1,26 @@
+{
+  "name": "arrand",
+  "version": "1.0.0",
+  "description": "Array random value",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo OK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvmspace/arrand.git"
+  },
+  "keywords": [
+    "array",
+    "random",
+    "nodejs",
+    "javascript",
+    "js"
+  ],
+  "author": "Vladimir V. Myagdeev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vvmspace/arrand/issues"
+  },
+  "homepage": "https://github.com/vvmspace/arrand#readme"
+}
